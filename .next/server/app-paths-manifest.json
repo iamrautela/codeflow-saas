@@ -1,0 +1,6 @@
+{
+  "/editor/page": "app/editor/page.js",
+  "/page": "app/page.js",
+  "/import/page": "app/import/page.js",
+  "/auth/page": "app/auth/page.js"
+}
